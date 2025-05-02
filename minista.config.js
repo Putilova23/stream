@@ -32,7 +32,7 @@ export default defineConfig({
       svgrOptions: {},
     },
     icons: {
-      srcDir: 'src/assets/iconss',
+      srcDir: 'src/assets/icons',
       outDir: 'assets/images',
       outName: '[dirname]',
       svgstoreOptions: {
